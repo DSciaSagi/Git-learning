@@ -1,0 +1,9 @@
+git init - inicializace gitu
+git add . - priprava na commit
+git status - status souboru ke commitu
+git commit -m 'desc' - commit s popisem
+git diff soubor.txt - difference neboli rozdil mezi verzemi kdyz zmenim v souboru neco (pred add?)
+git checkout soubor.txt - rollback
+git log 
+git push -u origin master // -u lokalni repo? master branch kterou posilam
+git rm --cached -r . //remove vse co je v git add
