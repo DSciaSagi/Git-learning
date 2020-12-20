@@ -1,0 +1,5 @@
+tady uz kurde neco ma byt
+
+a - zapisovani textu
+esc - skok do commandu
+:wq - safe and close
