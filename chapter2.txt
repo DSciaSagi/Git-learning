@@ -1,5 +1,9 @@
 tady uz kurde neco ma byt
 
-a - zapisovani textu
-esc - skok do commandu
+a/A - zapisovani textu a-kurzor/A-konec radku
+i/I - zapisovani textu i-pred kurzor/I-zacatek radku
+o/O - novy radek pod/nad kurzorem
+dd - vymaze radek
+esc - skok do command
+
 :wq - safe and close
