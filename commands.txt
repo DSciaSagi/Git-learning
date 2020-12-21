@@ -7,3 +7,4 @@ git checkout soubor.txt - rollback
 git log 
 git push -u origin master // -u lokalni repo? master branch kterou posilam
 git rm --cached -r . //remove vse co je v git add
+git clone https....git //- stahnuti projektu
