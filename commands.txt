@@ -8,3 +8,7 @@ git log
 git push -u origin master // -u lokalni repo? master branch kterou posilam
 git rm --cached -r . //remove vse co je v git add
 git clone https....git //- stahnuti projektu
+git branch new-test-branch //vytvoreni nove vetve
+git branch // ukaze vetve
+git checkout new-test-branch //switch to branch 'new-test-branch'
+git merge new-test-branch // z mastra mergnout branch
